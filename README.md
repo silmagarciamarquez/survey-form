@@ -1,3 +1,3 @@
-# survey-form
-Follow the instructions explained here:
-https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+### Survey Form GitHub Page
+click on the link to see outfit of my codes:
+[link](https://silmagarciamarquez.github.io/survey-form/)
